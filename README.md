@@ -1,4 +1,3 @@
-#Road Dash
 Road Dash is an Android game developed using Unity where the player collects coins while avoiding obstacles. The game features touch controls, increases speed over time, and has a wheel avatar.
 
 Getting Started:
